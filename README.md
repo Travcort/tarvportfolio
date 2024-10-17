@@ -6,7 +6,7 @@
 
   Fully responsive personal portfolio website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/portfolio/"><strong>➥ Live Site</strong></a>
+  <a href="https://travcort.github.io/tarvportfolio/"><strong>➥ Live Site</strong></a>
 
 </div>
 
